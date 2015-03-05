@@ -1,4 +1,3 @@
-postgres-hstore
-===============
+# postgres-hstore-postgis
 
-Postgres with hstore extension enabled using the official Docker base image.
+Postgres with hstore and postgis extension enabled using the official Docker base image.
